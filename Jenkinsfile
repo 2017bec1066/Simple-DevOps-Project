@@ -22,9 +22,9 @@ pipeline {
                 echo 'Hello World'
             }
         }
-        stage('fivth') {
+        stage('Final') {
             steps {
-                echo 'Hello World'
+                echo 'Final stage'
             }
         }
     }
